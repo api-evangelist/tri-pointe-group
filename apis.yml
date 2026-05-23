@@ -1,0 +1,107 @@
+name: Tri Pointe Homes
+description: |
+  Tri Pointe Homes (NYSE: TPH) is a US homebuilder headquartered in Orange County,
+  California. Founded in 2009, it builds single-family and multifamily new homes
+  across 13 states plus the District of Columbia under a unified Tri Pointe Homes
+  brand that consolidated legacy regional brands including Pardee Homes, Maracay,
+  Quadrant Homes, Winchester Homes, and Trendmaker Homes. The company also offers
+  ancillary services through Tri Pointe Connect (mortgage), Tri Pointe Assurance
+  (title and escrow), and Tri Pointe Advantage (insurance). Tri Pointe operates no
+  public developer program, no documented API, and no GitHub presence; its digital
+  surface is limited to a marketing site (tripointehomes.com), an investor portal,
+  a blog, and a careers portal.
+url: https://raw.githubusercontent.com/api-evangelist/tri-pointe-group/main/apis.yml
+image: https://www.tripointehomes.com/favicon.ico
+humanURL: https://www.tripointehomes.com
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+tags:
+  - Homebuilding
+  - Real Estate
+  - Residential Construction
+  - Mortgage
+  - Title And Escrow
+  - Insurance
+  - Smart Home
+  - Fortune 1000
+  - NYSE
+  - Public Company
+
+apis: []
+
+common:
+  - type: Website
+    url: https://www.tripointehomes.com
+  - type: AboutUs
+    url: https://www.tripointehomes.com/about-us/
+  - type: ContactUs
+    url: https://www.tripointehomes.com/contact-us/
+  - type: Blog
+    url: https://www.tripointehomes.com/blog/
+  - type: Careers
+    url: https://www.tripointehomes.com/careers/
+  - type: InvestorRelations
+    url: https://investors.tripointehomes.com/
+  - type: SECFilings
+    url: https://investors.tripointehomes.com/investors/financial-info/sec-reports/default.aspx
+  - type: PressReleases
+    url: https://investors.tripointehomes.com/investors/investor-news/default.aspx
+  - type: Newsroom
+    url: https://investors.tripointehomes.com/newsroom/default.aspx
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tri-pointe-homes
+  - type: Facebook
+    url: https://www.facebook.com/TriPointeHomesOfficial
+    name: Tri Pointe Homes Official
+  - type: Instagram
+    url: https://www.instagram.com/tripointehomes
+  - type: YouTube
+    url: https://www.youtube.com/c/TriPointeHomes
+  - type: Brands
+    data:
+      - name: Tri Pointe Homes
+        description: Unified national brand consolidating regional divisions as of 2021.
+      - name: Pardee Homes
+        description: Legacy California and Nevada division, now operating under Tri Pointe Homes.
+      - name: Maracay
+        description: Legacy Arizona division.
+      - name: Quadrant Homes
+        description: Legacy Washington State division.
+      - name: Winchester Homes
+        description: Legacy Mid-Atlantic (Maryland, Virginia, DC) division.
+      - name: Trendmaker Homes
+        description: Legacy Texas (Houston) division.
+  - type: Subsidiaries
+    data:
+      - name: Tri Pointe Connect
+        description: In-house mortgage origination joint venture.
+      - name: Tri Pointe Assurance
+        description: Title and escrow services subsidiary.
+      - name: Tri Pointe Advantage
+        description: Homeowners insurance services subsidiary.
+      - name: LivingSmart
+        description: Proprietary smart home and energy-efficiency package included with homes.
+  - type: Markets
+    data:
+      description: |
+        Operates in 13 states plus the District of Columbia across regional divisions
+        spanning the West (California, Nevada, Arizona, Washington, Colorado, Utah),
+        Central (Texas), Southeast (North Carolina, South Carolina, Florida, Georgia,
+        Tennessee), and Mid-Atlantic (Virginia, Maryland, DC).
+  - type: ScaleSnapshot
+    data:
+      asOfDate: '2026-03-31'
+      activeCommunities: 161
+      ltmDeliveries: 4643
+      ltmRevenueUsd: 3150000000
+      averageSalesPriceUsd: 678000
+      totalLegacyHomesBuilt: 58000
+      statesPlusDC: 14
+      stockExchange: NYSE
+      ticker: TPH
+
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
