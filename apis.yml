@@ -31,6 +31,8 @@ tags:
 apis: []
 
 common:
+  - type: DomainSecurity
+    url: security/tri-pointe-group-domain-security.yml
   - type: Website
     url: https://www.tripointehomes.com
   - type: AboutUs
