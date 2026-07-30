@@ -11,6 +11,17 @@ description: |
   surface is limited to a marketing site (tripointehomes.com), an investor portal,
   a blog, and a careers portal.
 url: https://raw.githubusercontent.com/api-evangelist/tri-pointe-group/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.tripointehomes.com/favicon.ico
 humanURL: https://www.tripointehomes.com
 created: '2026-05-23'
